@@ -1,4 +1,4 @@
-.
+<div>
 
 
 ###Now Playing --Spotify 🎧
@@ -11,3 +11,4 @@ adra67i&cover_image=true&theme=natemoo-re&bar_
 color_cover=true&bar_color=53b14f"/>
 </a>
 </p>
+</div>
