@@ -16,13 +16,13 @@ A Full Stack Web Developer 🚀 from Kenya
 [![My Skills](https://skills.thijs.gg/icons?i=react,ruby,rails,tailwind,postgres,js,html,css,)](https://skills.thijs.gg)
 
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;Web+Developer;."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;Full+Stack+Web+Developer;."
 />
   
 ### My Spotify
 <p>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=tkodyqapd40c3d0tfoadra67i&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tkodyqapd40c3d0tfoadra67i&cover_image=true&theme=default&bar_color_cover=false"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tkodyqapd40c3d0tfoadra67i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
   </a>
   </p>
   </div>
