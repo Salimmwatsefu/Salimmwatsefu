@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/salim-mwatsefu-694685235/">
   <p>Linkedin</p>
 </a>
+<a href="https://twitter.com/SalimMwatsefu">
+  <p>Twitter</p>
+</a>
 
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;Web+Developer;."
