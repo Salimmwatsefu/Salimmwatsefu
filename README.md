@@ -8,7 +8,7 @@ A DevOps Engineer/ Backend Developer 🚀 from Kenya
 [![My Skills](https://skills.thijs.gg/icons?i=react,ruby,rails,postgres,js,docker,jenkins,python,django)](https://skills.thijs.gg)
 
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;Full+Stack+Web+Developer;."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;DevOps+Engineer+and+Back+End+Web+Developer;."
 />
   
 ### My Spotify
