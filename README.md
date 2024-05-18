@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Salim
 
-A DevOps Engineer/ Backend Developer 🚀 from Kenya
+A DevOps Engineer/ Fullstack Developer 🚀 from Kenya
 
 **Languages and Tools:**
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,ruby,rails,postgres,js,docker,jenkins,python,django)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,terraform,jenkins,kubernetes,mysql,react,nextjs,django,ruby,postgres,tailwind,javascript&perline=7)](https://skillicons.dev)
 
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;DevOps+Engineer+/+Back+End+Dev;."
