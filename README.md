@@ -8,7 +8,7 @@ A DevOps Engineer/ Fullstack Developer 🚀 from Kenya
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,terraform,jenkins,kubernetes,mysql,react,nextjs,django,ruby,postgres,tailwind,javascript&perline=7)](https://skillicons.dev)
 
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;DevOps+Engineer+/+Back+End+Dev;."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Salim+Mwatsefu.;DevOps+Engineer+/+Full+Stack+Dev;."
 />
   
 ### My Spotify
