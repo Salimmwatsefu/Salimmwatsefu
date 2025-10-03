@@ -14,7 +14,7 @@ A Devops / Fullstack Developer 🚀 from Kenya
 ### My Spotify
 <p>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tkodyqapd40c3d0tfoadra67i&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tkodyqapd40c3d0tfoadra67i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?tkodyqapd40c3d0tfoadra67i&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
   </a>
   </p>
   </div>
